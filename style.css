@@ -3,11 +3,15 @@ body{
     margin: 36px 20%;
 }
 
+/* ... */
+
 h1{
     font-size: 48px;
-    color: rgb(54, 78, 150);
+    color: rgb(47, 121, 23);
     text-align: center;
 }
+
+/* ... */
 
 .ramen_image{
     width: 60%;
